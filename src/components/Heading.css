@@ -1,0 +1,12 @@
+ .heading {
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 6%; 
+    width: 32%;
+    padding-top:3%;
+    height: 60px;
+    /* padding:1%; */
+    border: 2px solid  rgb(143, 135, 113); 
+    border-radius: 10px;
+    background-color: rgba(207, 200, 182, 0.4);
+ }
